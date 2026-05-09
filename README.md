@@ -18,13 +18,13 @@
 
 ---
 
-## `// OVERVIEW`
+## `👀 OVERVIEW`
 
 > The **Product Recommendation System** helps users discover products that match their preferences and interests. It combines **Collaborative Filtering** (based on similar users) and **Content-Based Filtering** (based on product attributes) to deliver accurate, personalized suggestions from a custom-built CSV dataset — all through an interactive **Streamlit** web interface.
 
 ---
 
-## `// FEATURES`
+## `✨FEATURES`
 
 | Icon | Feature | Description |
 |:---:|---|---|
@@ -36,11 +36,11 @@
 
 ---
 
-## `// TECH STACK`
+## `⚙️ TECH STACK`
 
 | Technology | Purpose | Version |
 |---|---|---|
-| ![Python](https://img.shields.io/badge/Python-00ffff?style=flat-square&logo=python&logoColor=0a0a2e) | Core programming language | 3.8+ |
+| ![Python](https://img.shields.io/badge/Python-00ffff?style=flat-square&logo=python&logoColor=0a0a2e) | Core programming language | 3.14+ |
 | ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b8b?style=flat-square&logo=streamlit&logoColor=white) | Web-based user interface | Latest |
 | ![Pandas](https://img.shields.io/badge/Pandas-b44fff?style=flat-square&logo=pandas&logoColor=white) | Data loading and manipulation | Latest |
 | ![NumPy](https://img.shields.io/badge/NumPy-00ff99?style=flat-square&logo=numpy&logoColor=0a0a2e) | Numerical computations | Latest |
@@ -48,7 +48,7 @@
 
 ---
 
-## `// PROJECT STRUCTURE`
+## `📂 PROJECT STRUCTURE`
 
 ```
 📁 Product-Recommendation-System/
@@ -67,28 +67,29 @@
 
 ---
 
-## `// SETUP & INSTALLATION`
+## `⚙️ SETUP & INSTALLATION`
 
+#### 1. Clone the repository
 ```bash
-# ── Step 1: Clone the repository ──────────────────────────────
 git clone https://github.com/Harshtaker/Product-Recommendation-System.git
-
-# ── Step 2: Move into the project folder ──────────────────────
-cd Product-Recommendation-System
-
-# ── Step 3: Install all dependencies ──────────────────────────
-pip install -r requirements.txt
-
-# ── Step 4: Launch the Streamlit app ──────────────────────────
-streamlit run app.py
-
-# ── Open browser at ───────────────────────────────────────────
-# http://localhost:8501
 ```
+#### 2. Change Directory to Project
+```bash
+cd Product-Recommendation-System
+```
+#### 3. Install all dependencies
+```bash
+pip install -r requirements.txt
+```
+#### 4. Launch the Streamlit app 
+```bash
+python -m streamlit run app.py
+```
+#### 5. Open browser at http://localhost:8501
 
 ---
 
-## `// MEET THE TEAM`
+## `👥 MEET THE TEAM`
 
 <div align="center">
 
@@ -103,44 +104,42 @@ streamlit run app.py
     <td align="center">
       <img src="https://ui-avatars.com/api/?name=Ansh+Jaiswal&background=0d1117&color=00ffff&size=80&bold=true&rounded=true&border-color=00ffff" width="70" height="70" style="border-radius:50%;border:2px solid #00ffff"/>
       <br/><b>Ansh Jaiswal</b>
-      <br/><img src="https://img.shields.io/badge/2407370130022-00ffff?style=flat-square&logoColor=0a0a2e"/>
+      <br/><b>2407370130022</b>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Harsh+Shukla&background=0d1117&color=b44fff&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Harsh+Shukla&background=0d1117&color=b44fff&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Harsh Shukla</b>
-      <br/><img src="https://img.shields.io/badge/2407370130031-b44fff?style=flat-square"/>
-    </td>
+      <br/><b>2407370130031</b>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Adarsh+Kasaudhan&background=0d1117&color=00ff99&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Adarsh+Kasaudhan&background=0d1117&color=00ff99&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Adarsh Kasaudhan</b>
-      <br/><img src="https://img.shields.io/badge/240737013005-00ff99?style=flat-square&logoColor=0a0a2e"/>
+      <br/><b>2407370130005</b>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Rishi+Pathak&background=0d1117&color=ffaa00&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Rishi+Pathak&background=0d1117&color=ffaa00&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Rishi Kumar Pathak</b>
-      <br/><img src="https://img.shields.io/badge/2407370130050-ffaa00?style=flat-square&logoColor=0a0a2e"/>
+      <br/><b>2407370130050</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Abhinav+Arya&background=0d1117&color=ff4b8b&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Abhinav+Arya&background=0d1117&color=ff4b8b&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Abhinav Arya</b>
-      <br/><img src="https://img.shields.io/badge/240737013001-ff4b8b?style=flat-square"/>
+      <br/><b>2407370130001</b>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Abhishek+Paswan&background=0d1117&color=ffdd00&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Abhishek+Paswan&background=0d1117&color=ffdd00&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Abhishek Paswan</b>
-      <br/><img src="https://img.shields.io/badge/240737013003-ffdd00?style=flat-square&logoColor=0a0a2e"/>
+      <br/><b>2407370130003</b>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Gagan+Kumar&background=0d1117&color=00cfff&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Gagan+Kumar&background=0d1117&color=00cfff&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Gagan Kumar</b>
-      <br/><img src="https://img.shields.io/badge/2407370130028-00cfff?style=flat-square&logoColor=0a0a2e"/>
+      <br/><b>2407370130028</b>
     </td>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Team&background=0d1117&color=ffffff&size=80&bold=true&rounded=true" width="70" height="70"/>
+      <img src="https://ui-avatars.com/api/?name=Team&background=0d1117&color=ffffff&size=80&bold=true&rounded=true&rounded=true&border-color=00ffff" width="70" height="70"/>
       <br/><b>Batch 2024-2028</b>
-      <br/><img src="https://img.shields.io/badge/7_Members-ffffff?style=flat-square&logoColor=0a0a2e"/>
     </td>
   </tr>
 </table>
@@ -149,16 +148,8 @@ streamlit run app.py
 
 ---
 
-## `// LICENSE`
-
-This project is licensed under the **MIT License** — free to use, modify and distribute.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Made%20with%20❤️%20by%20the%20Team&fontSize=18&fontColor=00ffff&fontAlignY=65" width="100%"/>
-
-⭐ **Star this repo if you found it helpful!** ⭐
 
 </div>
