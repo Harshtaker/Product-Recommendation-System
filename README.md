@@ -23,89 +23,40 @@ This project was built collaboratively by a team of **7 members** from [Rajkiya 
 
 <table>
   <tr>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewAnsh">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/Ansh.jpeg" clip-path="url(#circleViewAnsh)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/Ansh.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Ansh Jaiswal" />
       <br/><b>Ansh Jaiswal</b>
-      <br/><img src="https://img.shields.io/badge/2407370130022-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130022-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewGagan">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/image.png" clip-path="url(#circleViewGagan)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/gagan.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Gagan Kumar" />
       <br/><b>Gagan Kumar</b>
-      <br/><img src="https://img.shields.io/badge/2407370130028-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130028-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewAdarsh">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/Adarsh.jpeg" clip-path="url(#circleViewAdarsh)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/Adarsh.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Adarsh Kasaudhan" />
       <br/><b>Adarsh Kasaudhan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130005-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130005-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewRishi">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/image.png" clip-path="url(#circleViewRishi)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/image.png" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Rishi Kumar Pathak" />
       <br/><b>Rishi Kumar Pathak</b>
-      <br/><img src="https://img.shields.io/badge/2407370130050-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130050-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewAbhinav">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/Abhinav.jpeg" clip-path="url(#circleViewAbhinav)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/Abhinav.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Abhinav Arya" />
       <br/><b>Abhinav Arya</b>
-      <br/><img src="https://img.shields.io/badge/2407370130001-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130001-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewAbhishek">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/Abhishek.jpeg" clip-path="url(#circleViewAbhishek)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/Abhishek.jpeg" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Abhishek Paswan" />
       <br/><b>Abhishek Paswan</b>
-      <br/><img src="https://img.shields.io/badge/2407370130003-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130003-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
-    <td align="center">
-      <svg width="70" height="70" viewBox="0 0 100 100" style="border-radius: 50%;">
-        <defs>
-          <clipPath id="circleViewHarsh">
-            <circle cx="50" cy="50" r="50" />
-          </clipPath>
-        </defs>
-        <image x="0" y="0" width="100" height="100" href="profile/Harsh.png" clip-path="url(#circleViewHarsh)" preserveAspectRatio="xMidYMid slice" />
-      </svg>
+    <td align="center" valign="top">
+      <img src="profile/Harsh.png" width="75" height="75" style="border-radius:50%; max-width:100%; object-fit:cover;" alt="Harsh Shukla" />
       <br/><b>Harsh Shukla</b>
-      <br/><img src="https://img.shields.io/badge/2407370130031-00ff99?style=flat-square&logoColor=0a0a2e&color=000000"/>
+      <br/><img src="https://img.shields.io/badge/2407370130031-00ff99?style=flat-square&logoColor=0a0a2e"/>
     </td>
   </tr>
 </table>
